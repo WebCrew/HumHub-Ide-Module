@@ -1,0 +1,10 @@
+{
+    "id": "ide",
+    "name": "IDE",
+    "description": "Adds a developer IDE to HumHub`s admin backend.",
+    "keywords": ["ide", "development"],
+    "version": "0.0.1",
+    "humhub": {
+    "minVersion": "1.0"
+    }
+}
