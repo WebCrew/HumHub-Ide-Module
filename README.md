@@ -19,6 +19,24 @@ To starts the widget visit the link in the admin panel sidebar **IDE Settings** 
 
 ***
 
+### Info
+-  the root path in my installation is ../../../themes
+
+***
+
+### Screenshot
+
+
+<a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="IDE Screenshot"
+         title="HumHub IDE Module" align="left" />
+</a>
+
+***
+
+
+
+
 
 
 
