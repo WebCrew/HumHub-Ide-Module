@@ -14,7 +14,7 @@ To starts the widget visit the link in the admin panel sidebar **IDE Settings** 
 3. The folder **ide_app** has to be uploaded to HumHub **themes folder**
 4. Open protected/modules/ide/views/admin/index.php line 17 and check back if the iframe URL fits with your setup
 5. Now upload the ide module folder (exclude the ide_app folder) to protected/modules/ and then activate the module from HumHubs admin backend.
-6. **Important:** point the IDE to your humhubs **theme folder**. It should become the IDE projects root folder. You have to do this in ide_app/CODEIT/config.php here you can also setup a user. The default useername is **Demo** and the default password is also **demo**
+6. **Important:** point the IDE to your humhubs **theme folder**. It should become the IDE projects root folder. You have to do this in ide_app/CODEIT/config.php here you can also setup a user. The default useername is **Demo** and the default password is also **Demo**
 7. Have fun!
 
 ***
