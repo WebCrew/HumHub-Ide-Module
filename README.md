@@ -2,7 +2,7 @@
 
 This module adds a IDE (CODEIT IDE) to the admin backend of Your HumHub installation.  You can use it to edit HumHub themes or to create other development projects. 
 
-To starts the widget visit the link in the admin panel sidebar **IDE Settings** and then install the IDE. At the installation choose the HumHub themes folder as your project folder.
+To starts the IDE visit the link in the admin panel sidebar **IDE Settings**
 
 ***
 
