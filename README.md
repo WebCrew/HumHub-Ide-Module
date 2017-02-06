@@ -1,6 +1,6 @@
 # HumHub IDE Module Description
 
-This module adds a IDE (CODEIT IDE) to the admin backend of Your HumHub installation.  You can use it to edit HumHub themes or to create other development projects. 
+This module adds a IDE (Codiad IDE) to the admin backend of Your HumHub installation.  You can use it to edit HumHub themes or to create other development projects. 
 
 To starts the IDE visit the link in the admin panel sidebar **IDE Settings**
 
@@ -44,7 +44,7 @@ To starts the IDE visit the link in the admin panel sidebar **IDE Settings**
 
 ### Authors/Module Website
 
-__CODEIT IDE website:__ <https://github.com/WebCrew/CODEIT-IDE>
+__Codiad IDE website:__ <https://github.com/Codiad/Codiad>
 
 __Module website:__ <https://github.com/WebCrew/HumHub-IDE-Module>  
 
