@@ -30,7 +30,7 @@ To starts the IDE visit the link in the admin panel sidebar **IDE Settings**
 
 
 <a href="http://todgmbh.de">
-    <img src="https://github.com/WebCrew/HumHub-Ide-Module/blob/master/ide.png?raw=true" alt="IDE Screenshot"
+    <img src="https://github.com/WebCrew/HumHub-Ide-Module/blob/master/ide2.png?raw=true" alt="IDE Screenshot"
          title="HumHub IDE Module" align="left" />
 </a>
 
