@@ -14,7 +14,7 @@ use humhub\modules\ide\controllers\AdminController;
             width: 100%;
             min-height: 90vh;
             flex-grow: 1;" 
-            src="http://your_domain.com/your_HumHub/themes/ide_app/index.php" allowfullscreen>
+            src="http://your_domain.com/your_HumHub/ide_app/index.php" allowfullscreen>
         </iframe>
 	</div>
 </div>

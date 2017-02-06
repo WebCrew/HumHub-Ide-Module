@@ -11,16 +11,18 @@ To starts the IDE visit the link in the admin panel sidebar **IDE Settings**
 ## Installation
 1. Download the module and unzip it
 2. Rename the extracted (unziped) folder to ```ide``` (May not be required!)
-3. The folder **ide_app** has to be uploaded to HumHub **themes folder**
+3. The folder **ide_app** has to be uploaded to the same folder where HumHub is installed
 4. Open protected/modules/ide/views/admin/index.php line 17 and check back if the iframe URL fits with your setup
 5. Now upload the ide module folder (exclude the ide_app folder) to protected/modules/ and then activate the module from HumHubs admin backend.
-6. **Important:** point the IDE to your humhubs **theme folder**. It should become the IDE projects root folder. You have to do this in ide_app/CODEIT/config.php here you can also setup a user. The default useername is **Demo** and the default password is also **Demo**
+6. After activation open the link IDE Settings and start the IDE installer. It is important to setup the **absolut server path to HumHubs theme folder**. In my installation it is: **/var/www/web917/html**. 
 7. Have fun!
 
 ***
 
 ### Info
--  the root path in my installation is ../../../themes
+-  the root path in my installation is **/var/www/web917/html**
+-  So for UNIX systems something like: /var/www/sites/my_project
+-  And for WIN systems something like: E:/www/sites/my_project
 
 ***
 
