@@ -4,6 +4,11 @@ This module adds a IDE (Codiad IDE) to the admin backend of Your HumHub installa
 
 To starts the IDE visit the link in the admin panel sidebar **IDE Settings**
 
+
+***
+
+**NOTE: I will no longer make use of HumHub and I stop updating my modules and themes for HumHub. It is up to you, you are welcome to update the modules and themes in the future.**
+
 ***
 
 
