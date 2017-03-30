@@ -1,9 +1,11 @@
 <?php
-use humhub\compat\CActiveForm;
-use humhub\compat\CHtml;
+
+use yii\bootstrap\ActiveForm;
+use yii\helper\Html;
 use humhub\models\Setting;
 use humhub\modules\ide\controllers\AdminController;
 ?>
+
 <div class="panel panel-default">
 	<div class="panel-heading" style="display: none;"></div>
 	<div class="panel-body">
